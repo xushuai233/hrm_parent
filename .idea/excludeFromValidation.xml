@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExcludeFromValidation">
+    <file url="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka_7001/src/main/java/org/xushuai/hrm/EurekaServer7001Application.java" />
+  </component>
+</project>
