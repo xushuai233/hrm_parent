@@ -31,7 +31,7 @@ public class Swagger2 {
         return new ApiInfoBuilder()
                 .title("系统管理api")
                 .description("系统管理接口文档说明")
-                .contact(new Contact("xstest", "www.xushuai.com", "565702742@qq.com"))
+                .contact(new Contact("xstest", "www.xushuai.top", "565702742@qq.com"))
                 .version("1.0")
                 .build();
     }

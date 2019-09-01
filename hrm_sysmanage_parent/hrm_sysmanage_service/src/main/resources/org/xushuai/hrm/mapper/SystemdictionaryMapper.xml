@@ -10,4 +10,5 @@
         <result column="intro" property="intro" />
         <result column="state" property="state" />
     </resultMap>
+
 </mapper>
